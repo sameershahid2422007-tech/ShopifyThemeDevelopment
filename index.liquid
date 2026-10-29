@@ -1,0 +1,17 @@
+{% if template.name != 'contact' %}
+{{page.title | lowercase|append:' Page'| prepend:' SS '}}
+{% endif %}
+
+
+
+
+<style>
+</style>
+
+<div class="page-width page-content">
+  <div class="grid">
+    <div class="grid__item">
+      {{ page.content }}
+    </div>
+
+    <>
