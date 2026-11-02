@@ -144,6 +144,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "{{ product.metafields.custom.infuencer.value.image.value }}",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
