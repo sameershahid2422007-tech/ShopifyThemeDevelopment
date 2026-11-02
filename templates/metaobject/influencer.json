@@ -22,7 +22,7 @@
         "text_F6en38": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "{{ metaobject.description | metafield_tag }}",
             "text_style": "body"
           }
         },
