@@ -25,20 +25,11 @@
             "text": "<p></p>{{ metaobject.description | metafield_tag }}",
             "text_style": "body"
           }
-        },
-        "button_36GWpd": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_at9jUX",
-        "text_F6en38",
-        "button_36GWpd"
+        "text_F6en38"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
