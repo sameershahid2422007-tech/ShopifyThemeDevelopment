@@ -29,8 +29,8 @@
         "button_36GWpd": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Check more details",
+            "button_link": "{{ metaobject.system.url }}",
             "button_style_secondary": false
           }
         }
