@@ -131,7 +131,7 @@
         "button_n7AYL3": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Check more details",
             "button_link": "{{ product.metafields.custom.infuencer.value.system.url }}",
             "button_style_secondary": false
           }
