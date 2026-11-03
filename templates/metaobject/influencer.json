@@ -19,7 +19,7 @@
             "heading_size": "h1"
           }
         },
-        "text_F6en38": {
+        "text_RgcAbG": {
           "type": "text",
           "settings": {
             "text": "{{ metaobject.description | metafield_tag }}",
@@ -29,7 +29,7 @@
       },
       "block_order": [
         "heading_at9jUX",
-        "text_F6en38"
+        "text_RgcAbG"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
